@@ -1,0 +1,22 @@
+{
+  "html_pages": 2012,
+  "movie_files": 2000,
+  "category_files": 8,
+  "baidu_missing": [],
+  "category_coverage": 2000,
+  "missing_from_categories": [],
+  "has_player_js": true,
+  "has_hls_global": true,
+  "records_parsed": 2000,
+  "video_urls_found": 20,
+  "category_counts": {
+    "drama-literary": 250,
+    "rihan-video": 250,
+    "suspense-thriller": 250,
+    "sci-fi-fantasy": 250,
+    "animation-sports": 250,
+    "classic-global": 250,
+    "love-comedy": 250,
+    "action-war": 250
+  }
+}
